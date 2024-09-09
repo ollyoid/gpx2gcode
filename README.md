@@ -6,7 +6,7 @@
 
 Just a little IPython Notebook for converting gpx data from bike rides into raw G-code.
 
-Built using the lovely [FullControl Library](fullcontrol.xyz).
+Built using the lovely [FullControl Library](https://fullcontrol.xyz).
 
 
 > [!WARNING]  
